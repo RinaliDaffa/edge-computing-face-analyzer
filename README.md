@@ -19,24 +19,8 @@ Aplikasi Flutter sederhana untuk mendeteksi wajah dan ekspresi dari foto galeri.
 
 ## Screenshot
 
-<!-- Tempatkan screenshot aplikasi di bawah ini -->
-```
-┌─────────────────────────────────┐
-│                                 │
-│     [Screenshot 1: Awal App]    │
-│        (appawal.png)            │
-│                                 │
-└─────────────────────────────────┘
-```
+<img width="1080" height="2400" alt="Screenshot_20260511_181912" src="https://github.com/user-attachments/assets/f7c42c77-ac3a-49e1-8c2c-1e6e71eb9bec" />
 
-```
-┌─────────────────────────────────┐
-│                                 │
-│  [Screenshot 2: Hasil Deteksi]   │
-│        (hasildeteksi.png)       │
-│                                 │
-└─────────────────────────────────┘
-```
 
 ## Teknologi
 
